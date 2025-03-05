@@ -1,2 +1,6 @@
 # GGPlot2
-![Deskripsi detail Mengenai GG Plot 2](https://rstudio.github.io/cheatsheets/data-visualization.pdf)
+
+**Skema lengkap mengenai GG plot 2 atau Plotnine**
+
+[Skema](https://rstudio.github.io/cheatsheets/data-visualization.pdf)
+
